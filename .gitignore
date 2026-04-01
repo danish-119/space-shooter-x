@@ -1,0 +1,29 @@
+# Java build output
+*.class
+*.jar
+*.war
+*.ear
+
+# Project build folders
+/bin/
+/out/
+/target/
+/build/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# IDE/editor files
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS files
+.DS_Store
+Thumbs.db
